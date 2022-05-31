@@ -1,0 +1,110 @@
+{
+  "blogs": [
+    {
+      "title": "Wow!",
+      "date": "21.5.22, 13:20",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nnThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "shimi",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqsDSfInmyEKX3DdXQNpPWJR3D8uAdOpCgzA856m9l8hxnIDribP0QgTGCsBAuwu8ROE&usqp=CAU",
+      "id": 4
+    },
+    {
+      "title": "Love",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "shimi",
+      "date": "21.5.22, 16:31",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxp_EGLHSzXOtdSe8k7mdmMjCdallY1rtDS48pgesuXTPHfLjdWh5zI8zv4MiOiWZj11M&usqp=CAU",
+      "id": 6
+    },
+    {
+      "title": "Money is love",
+      "body": "Where does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\n",
+      "author": "yossi",
+      "date": "24.5.22, 20:37",
+      "img": "https://www.mantruckandbus.com/fileadmin/media/bilder/02_19/219_05_busbusiness_interviewHeader_1485x1254.jpg",
+      "id": 19
+    },
+    {
+      "title": "Where does it come from?",
+      "body": "Contrary to popular belief, Lorem Ipsum is not simply random text.\nIt has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\nRichard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC.\nThis book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "author": "yossi",
+      "date": "21.5.22, 23:19",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBQF_qZluG0OnyvSIoLeJ75riG6jhG6yjKtm-_8aqIdrK0Wb3lVsVR2_3S9I5Q6TYwKE&usqp=CAU",
+      "id": 8
+    },
+    {
+      "title": "My Blog",
+      "body": "Where does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\n",
+      "author": "yossi",
+      "date": "23.5.22, 18:34",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-RWHO_ItDM66Uol3WboX1tlgVGJjxRfM_uA&usqp=CAU",
+      "id": 15
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Forest",
+      "body": "This image is the most amazing image I have ever taken",
+      "author": "Avi",
+      "date": "25.5.22, 19:10",
+      "image": "https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/article/public/field/image/rs930_135120665-low.jpg?itok=g5LI5W4C",
+      "id": 25
+    },
+    {
+      "title": "Forest",
+      "body": "This image is the most amazing image I have ever taken",
+      "author": "Yossi As",
+      "date": "25.5.22, 19:10",
+      "image": "https://media.cntraveler.com/photos/5eb18e42fc043ed5d9779733/16:9/w_2580,c_limit/BlackForest-Germany-GettyImages-147180370.jpg",
+      "id": 26
+    },
+    {
+      "title": "Forest",
+      "body": "This image is the most amazing image I have ever taken",
+      "author": "Shimi",
+      "date": "27.5.22, 18:31",
+      "image": "https://i.insider.com/5ecfe8683ad86118977c07c3?width=750&format=jpeg&auto=webp",
+      "id": 27
+    },
+    {
+      "title": "Mountain",
+      "body": "This image is the most amazing image I have ever taken",
+      "author": "Yossi As",
+      "date": "27.5.22, 20:04",
+      "image": "https://cdn.britannica.com/67/19367-050-885866B4/Valley-Taurus-Mountains-Turkey.jpg",
+      "id": 28
+    },
+    {
+      "title": "Mountain",
+      "body": "This image is the most amazing image I have ever taken",
+      "author": "Yossi As",
+      "date": "27.5.22, 20:04",
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/11/25/thumbs/800x531/74707.jpg",
+      "id": 29
+    },
+    {
+      "title": "Mountain",
+      "body": "This image is the most amazing image I have ever taken",
+      "author": "Shimi",
+      "date": "27.5.22, 20:05",
+      "image": "http://cdn.shopify.com/s/files/1/1454/9386/files/18724406_xxl_1200x1200.jpg?v=1516987434",
+      "id": 30
+    },
+    {
+      "title": "Desert",
+      "body": "This image is the most amazing image I have ever taken",
+      "author": "Yossi As",
+      "date": "27.5.22, 20:05",
+      "image": "https://cdn.uc.assets.prezly.com/35778ab2-e31e-4248-81bd-f1fa715d59d5/-/preview/1920x1200/-/quality/best/-/format/auto/",
+      "id": 31
+    },
+    {
+      "title": "Desert",
+      "body": "This image is the most amazing image I have ever taken",
+      "author": "Yossi As",
+      "date": "27.5.22, 20:05",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/h-bun2rAGQCTzVJvCy-fJPZB-wE=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/f2/94/f294516b-db3d-4f7b-9a60-ca3cd5f3d9b2/fbby1h_1.jpg",
+      "id": 32
+    }
+  ]
+}
