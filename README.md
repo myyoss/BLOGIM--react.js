@@ -1,3 +1,20 @@
+Blogs & Gallery App- REACR.JS
+- Upload and delete new post
+- Search post or photo by author
+
+
+
+![ScreenshotHome](https://user-images.githubusercontent.com/93940739/171136690-5a0be976-f487-4630-b558-60d246b0beb8.png)
+
+
+![ScreenshotGallery](https://user-images.githubusercontent.com/93940739/171136735-73baa9be-0f18-4c62-9431-40dbb201c70f.png)
+
+
+
+![newBlog](https://user-images.githubusercontent.com/93940739/171136768-ee04702e-8fbb-436f-a027-5ae295ae1484.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
