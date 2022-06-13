@@ -2,7 +2,7 @@ Blogs & Gallery App- REACR.JS
 - Upload and delete new post
 - Search post or photo by author
 
-to setup jason-server use: npx json-server --watch data/db.json --port 8000
+Using jason-server. Run: npx json-server --watch data/db.json --port 8000
 
 ![ScreenshotHome](https://user-images.githubusercontent.com/93940739/171136690-5a0be976-f487-4630-b558-60d246b0beb8.png)
 
