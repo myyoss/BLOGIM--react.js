@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router-dom'
+
 
 
 const SearchGallery = ({ gallery }: any) => {
@@ -21,12 +21,12 @@ const SearchGallery = ({ gallery }: any) => {
 
     return (
         <div>
-            <div className='title-search'>
+            <div className='title-search-photographer'>
                 <input type="text" placeholder=' Search Photographer...' onChange={(e) => { setSearchTerm(e.target.value); setTitle(e.target.value) }} />
                 <div className='title-gallery'>
                     {searchTerm && <h1 className='serchingTitle'> {`${title}'s`} Gallery</h1>}
                     {!searchTerm && <h1> Gallery</h1>}
-                    <div><img src="/gallery.png" alt="" /></div>
+                    <div><img src="images/gallery.png" alt="" /></div>
                 </div>
             </div>
 

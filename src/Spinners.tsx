@@ -1,6 +1,4 @@
 
-import { css } from "@emotion/react";
-import ClipLoader from "react-spinners/ClipLoader";
 import PropagateLoader from "react-spinners/PropagateLoader";
 
 const Spinners = () => {

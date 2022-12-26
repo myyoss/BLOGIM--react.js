@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import BlogList from './Bloglist'
+
 
 const Search = ({ blogs }: any) => {
 
@@ -14,7 +14,7 @@ const Search = ({ blogs }: any) => {
                 <div className='title-blog'>
                 {searchTerm && <h1 className='serchingTitle'>All {`${title}'s`} Blogs</h1>}
                 {!searchTerm && <h1>All blogs</h1>}
-                <div><img src="/blog.png" alt="" /></div>
+                <div><img src="images/blog.png" alt="" /></div>
                 </div>
             </div>
             
@@ -33,7 +33,6 @@ const Search = ({ blogs }: any) => {
                     </Link>
                 </div>
             ))}
-
         </div>
     )
 }

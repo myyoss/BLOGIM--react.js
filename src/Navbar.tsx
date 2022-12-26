@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Search from './Search'
 
 const Navbar = () => {
     return (
@@ -8,28 +7,40 @@ const Navbar = () => {
             <Link to="/"><h1>Blogim!</h1></Link>
             <div className="links">
                 <Link to="/" style={{
-                    backgroundColor: '#f1356d',
+                    backgroundColor: '#f1356dd6',
                     color: 'white',
-                    borderRadius: '8px',
-                    fontWeight:'bold'
+                    borderRadius: '4px',
+                    padding: 8,
+                    paddingLeft: 18,
+                    paddingRight: 18,
+                    // fontWeight:'bold'
                 }}>Home</Link>
-                <Link to="/create" style={{
-                    backgroundColor: '#f1356d',
+                <Link className="btnLink" to="/create" style={{
+                    backgroundColor: '#f1356dd6',
                     color: 'white',
-                    borderRadius: '8px',
-                    fontWeight:'bold'
+                    borderRadius: '4px',
+                    padding: 8,
+                    paddingLeft: 18,
+                    paddingRight: 18,
+                    // fontWeight:'bold'
                 }}>New Blog</Link>
                  <Link to="/gallery" style={{
-                    backgroundColor: '#35a0f1',
+                    backgroundColor: '#35a0f1b0',
                     color: 'white',
-                    borderRadius: '8px',
-                    fontWeight:'bold'
+                    borderRadius: '4px',
+                    padding: 8,
+                    paddingLeft: 18,
+                    paddingRight: 18,
+                    // fontWeight:'bold'
                 }}>Gallery</Link>
                 <Link to="/createImage" style={{
-                    backgroundColor: '#35a0f1',
+                    backgroundColor: '#35a0f1b0',
                     color: 'white',
-                    borderRadius: '8px',
-                    fontWeight:'bold'
+                    borderRadius: '4px',
+                    padding: 8,
+                    paddingLeft: 18,
+                    paddingRight: 18,
+                    // fontWeight:'bold'
                 }}>New Image</Link>
             </div>
         </nav>

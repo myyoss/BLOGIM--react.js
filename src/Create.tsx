@@ -22,12 +22,11 @@ const Create = () => {
 
   const handleSubmit = (e: any) => {
     e.preventDefault();
-
     setIsPanding(true)
 
     const blog = { title, body, author, date, img };
 
-    fetch('http://localhost:4000/blogs/', {
+    fetch('http://localhost:8000/blogs/', {
       method: 'POST',
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(blog)

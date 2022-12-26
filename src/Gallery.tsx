@@ -1,12 +1,12 @@
 import useFetch from './useFetch'
-import GallerryList from './GallerryList'
+// import GallerryList from './GallerryList'
 import Spinners from './Spinners'
 import Modal from './Modal'
 import SearchGallery from './SearchGallery'
 
 const Gallery = () => {
 
-    const { isPanding, data: gallery, error } = useFetch('http://localhost:4000/gallery/')
+    const { isPanding, data: gallery, error } = useFetch('http://localhost:8000/gallery/')
 
     return (
         <div>

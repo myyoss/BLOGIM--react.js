@@ -1,11 +1,11 @@
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import useFetch from './useFetch'
 import Spinners from './Spinners'
 
 const BlogDetails = () => {
     const { id } = useParams()
-    const { data: blog, error, isPanding } = useFetch('http://localhost:4000/blogs/' + id)
+    const { data: blog, error, isPanding } = useFetch('http://localhost:8000/blogs/' + id)
 
     
     
@@ -15,7 +15,7 @@ const BlogDetails = () => {
 
 
     const handleDelete = () => {
-        fetch('http://localhost:4000/blogs/' + id, {
+        fetch('http://localhost:8000/blogs/' + id, {
             method: 'DELETE'
         }).then(() => {
             setDeliting(true)

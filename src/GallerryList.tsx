@@ -1,7 +1,7 @@
 
 // import "./Modal.css";
-import React, { useEffect, useState } from "react";
-import Modal from "./Modal";
+// import React, { useEffect, useState } from "react";
+// import Modal from "./Modal";
 const GallerryList = ({ gallery, title }: any) => {
 
     // const [modal, setModal] = useState(false);

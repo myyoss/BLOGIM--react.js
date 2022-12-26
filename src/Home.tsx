@@ -3,7 +3,7 @@ import Spinners from './Spinners'
 import useFetch from './useFetch'
 
 function Home() {
-    const { isPanding, data: blogs, error } = useFetch('http://localhost:4000/blogs/')
+    const { isPanding, data: blogs, error } = useFetch('http://localhost:8000/blogs/')
 
 
     return (
