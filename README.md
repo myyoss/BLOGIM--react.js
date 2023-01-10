@@ -1,6 +1,11 @@
 Blogs & Gallery App- REACR.JS
 - Upload and delete new post
-- Search post or photo by author
+- Search post or photo by ✍️ author
+
+Live Demo:
+
+https://blogim-client.onrender.com/
+
 
 Terminal 1 - npm start
 
